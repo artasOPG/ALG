@@ -1,0 +1,28 @@
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.exe
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.deps.json
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.json
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfo.cs
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\USER\Desktop\Zadanie\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.genruntimeconfig.cache
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.exe
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.deps.json
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.json
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfo.cs
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\USER\Desktop\Алгоритмы\Задания 1-3\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.genruntimeconfig.cache

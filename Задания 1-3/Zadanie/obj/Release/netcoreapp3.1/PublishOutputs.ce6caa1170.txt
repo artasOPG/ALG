@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Алгоритмы\Zadanie.exe
+C:\Users\USER\Desktop\Алгоритмы\Zadanie.dll
+C:\Users\USER\Desktop\Алгоритмы\Zadanie.deps.json
+C:\Users\USER\Desktop\Алгоритмы\Zadanie.runtimeconfig.json
+C:\Users\USER\Desktop\Алгоритмы\Zadanie.pdb
