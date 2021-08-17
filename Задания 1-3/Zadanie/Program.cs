@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Windows;
 
+//Сделал Парфёнов Данила
+
 namespace Zadanie
 {
     class Program
